@@ -128,6 +128,8 @@ public class FrontendUtils {
     /**
      * Default folder for copying front-end resources present in the classpath
      * jars.
+     * @deprecated This is deprecated due to a typo.
+     *             Use DEFAULT_FLOW_RESOURCES_FOLDER instead.
      * @see #DEFAULT_FLOW_RESOURCES_FOLDER
      */
     @Deprecated
